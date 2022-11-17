@@ -1,3 +1,6 @@
+# UPDATA
+
+Cập Nhật Thêm Methods Và Giao Diện , Proxy !
 
 # CONTACT:
 ```sh
